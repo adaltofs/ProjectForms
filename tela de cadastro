@@ -11,7 +11,7 @@
         <input type="email" id "emailUsuario" required> <br> <br>
 
         <label for="senha">senha</label>
-        <input type="password" id="senha" placeholder ="Digite sua senha" required>  <br> <br>
+        <input type="password" id="senha" placeholder ="Digite sua Senha" required>  <br> <br>
 
         <button>Entrar</button>
 
